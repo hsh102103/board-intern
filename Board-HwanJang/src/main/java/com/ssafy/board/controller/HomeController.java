@@ -1,4 +1,4 @@
-package com.ssafy.mvc;
+package com.ssafy.board.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
